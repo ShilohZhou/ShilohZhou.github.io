@@ -1,0 +1,50 @@
+/* CSS Document */
+head {
+	background-color:#313131; 
+	}
+
+
+#titlepic {text-align:center;
+		background-color:#000000;
+		border-top-width:.5in;
+		border-bottom-width:.5in;
+		}
+	
+	
+#top {text-align:center;
+	font-family: "Courier New";
+	margin-top:.5in;
+	}
+	
+	
+#top a:link {
+	color:grey;
+	font-size:16px;
+	text-decoration:none;}
+	
+	
+#middle {text-align:center;
+	font-family: "Courier New";
+	margin-top:.5in;
+	}
+
+#bottom {text-align:center;
+	}
+	
+#bottom,#footer 
+	{font-family:"Courier New", Courier, monospace;
+	text-decoration:none;
+	text-align:center;}
+
+#bottom a:link {
+	color:grey;
+	font-size:16px;}
+	
+ol {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+	}
+	

@@ -1,0 +1,71 @@
+/* CSS Document */
+
+body {
+	background:url(image/elephantinthedesert.jpg) no-repeat center center fixed;
+	background-size:cover;
+	}
+	
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	}
+	
+	
+li {
+    float:center;
+	}
+
+li a {
+    display: block;
+    color: white;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+
+/* Change the link color to #111 (black) on hover */
+	li a:hover {
+    background-color:#999999;
+	}
+	
+	
+header, section, footer {
+    display: block;
+    width: 100%;
+	}	
+	
+	
+body {
+	font-family:Helvetica, Arial, sans-serif;
+	}
+	
+	
+header {
+	height:100px;
+	}
+	
+	
+header h1 {
+	font-size:50px;
+	text-align:center;
+	color:#492A01;
+	font-weight:bold;
+	padding-top:.5em;
+	}
+	
+	
+#page {
+	font-size:20px;
+	text-align:center;
+	color:#492A01;
+	padding-top:.5em;
+	}
+	
+	
+#bodytext {
+		width:60%;
+		margin: 0 auto;
+	}

@@ -1,0 +1,42 @@
+/* CSS Document */
+
+
+body {
+	background:url(image/indian-elephant.jpg) no-repeat center center fixed;
+	background-size:cover;
+	
+	}
+
+
+#title {
+	position:absolute;
+	bottom:65%;
+	left:5%;
+	width:50%;
+	text-align:center;
+	border:none;
+	font-family:Helvetica, Arial, sans-serif;
+	
+	}
+	
+	#title h1 a:link {
+	color:#711012;
+	font-size:30px;
+	text-decoration:none;
+	}
+
+#title h1 a:visited {
+	color:#711012;
+	font-size:30px;
+	text-decoration:none;
+	}
+
+#title h1 a:hover{
+	color:grey;
+	font-size:30px;
+	text-decoration:none;
+	}
+
+#title h1 a:active{
+	animation-direction:url(image/blood.png)
+	}

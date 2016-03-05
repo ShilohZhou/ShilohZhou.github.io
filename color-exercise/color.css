@@ -1,0 +1,11 @@
+/* CSS Document */
+
+header {
+	font-family:"Courier New";
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: non;
+	background-color:#000000;
+	}
