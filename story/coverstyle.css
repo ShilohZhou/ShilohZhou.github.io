@@ -2,7 +2,7 @@
 
 
 body {
-	background:url(image/indian-elephant.jpg) no-repeat center center fixed;
+	background:url(image/1.jpg) no-repeat center center fixed;
 	background-size:cover;
 	
 	}
@@ -11,30 +11,35 @@ body {
 #title {
 	position:absolute;
 	bottom:65%;
-	left:5%;
+	left:40%;
 	width:50%;
 	text-align:center;
 	border:none;
-	font-family:Helvetica, Arial, sans-serif;
+	font-family:Helvetica;
+	opacity:60%;
 	
 	}
 	
 	#title h1 a:link {
 	color:#711012;
-	font-size:30px;
+	opacity:60%;
+	font-size:50px;
 	text-decoration:none;
+	
 	}
 
 #title h1 a:visited {
 	color:#711012;
-	font-size:30px;
+	font-size:50px;
 	text-decoration:none;
+	opacity:60%;
 	}
 
 #title h1 a:hover{
 	color:grey;
-	font-size:30px;
+	font-size:50px;
 	text-decoration:none;
+	opacity:60%;
 	}
 
 #title h1 a:active{

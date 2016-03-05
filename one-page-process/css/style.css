@@ -8,6 +8,9 @@ head {
 		background-color:#000000;
 		border-top-width:.5in;
 		border-bottom-width:.5in;
+		display: block;
+   		width: 100%;
+		padding-top:.5em;
 		}
 	
 	
@@ -26,6 +29,7 @@ head {
 #middle {text-align:center;
 	font-family: "Courier New";
 	margin-top:.5in;
+	font-size:20px;
 	}
 
 #bottom {text-align:center;
@@ -48,3 +52,8 @@ ol {
     background-color: #FFFFFF;
 	}
 	
+
+header, section, footer {
+    display: block;
+    width: 100%;
+	}
