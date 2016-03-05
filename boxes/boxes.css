@@ -1,0 +1,26 @@
+/* CSS Document */
+
+#one {
+	margin-right: 100px;
+	margin-left: 100px;
+	}
+	
+#two {
+	padding:100px;
+	background:rgba(28,127,115,1.00);
+	}
+	
+	
+#three {
+	border:10px dotted #C86062;
+	width: 50%;
+	margin:100px auto;
+	}
+	
+	
+#four,#five {
+	width:45%;
+	margin:1%;
+	float:left;
+	
+	}	
