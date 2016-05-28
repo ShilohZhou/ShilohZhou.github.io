@@ -89,12 +89,12 @@ footer {
 
 ul{
     position:absolute;
-	bottom:0;
-	left:45%;
+	bottom:2em;
+	left:37.5%;
 	width:10%;
 	text-align:center;
 	border:1px solid white;
-	font-family:"Courier New", Courier, monospace;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-decoration:none;
     
 }
