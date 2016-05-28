@@ -1,0 +1,47 @@
+/* CSS Document */
+
+#title {
+	position:absolute;
+	bottom:45%;
+	left:25%;
+	width:50%;
+	text-align:center;
+	font-family: 'Meddon', cursive;
+	font-family: 'Nothing You Could Do', cursive;
+	}
+	
+	#title h1 a:link {
+	color:white;
+	font-size:72px;
+	text-decoration:none;
+	font-family: 'Meddon', cursive;
+	font-family: 'Nothing You Could Do', cursive;
+	}
+
+#title h1 a:visited {
+	color:white;
+	font-size:72px;
+	text-decoration:none;
+	font-family: 'Meddon', cursive;
+	font-family: 'Nothing You Could Do', cursive;
+	}
+
+#title h1 a:hover{
+	color:rgba(255,203,0,1.00);
+	font-size:72px;
+	font-family: 'Meddon', cursive;
+	font-family: 'Nothing You Could Do', cursive;
+	}
+
+#title h1 a:active{
+	color:rgba(187,187,187,1.00);
+	font-size:72px;
+	font-family: 'Meddon', cursive;
+	font-family: 'Nothing You Could Do', cursive;
+	}
+	
+body {
+	background-color:#000000;
+	background-size:cover;
+	
+	}
